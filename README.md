@@ -28,7 +28,14 @@ class="carousel-section">
  <div class="carousel">
   <div class="carousel-item"><img src="https://via.placeholder.com/800x400"
  alt="Imagem 1"></div>
-   <div class="
+  <div class="carousel-item"><img src="https://via.placeholder.com/800x400"
+ alt="imagem 2"></div>
+  <div class="=carousel-item"><img src="https://via.placeholder.com/800x400"
+ alt="imagem 3"></div>
+  </div>
+ </section>
+<!--Rodapé-->
+ 
  
 
 
