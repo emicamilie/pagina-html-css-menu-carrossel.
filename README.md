@@ -92,8 +92,33 @@ body{
       scroll-snap-type:x mandatory;
       gap: 1rem;
       }
-      .carousel-item
-
+      .carousel-item {
+        flex: 0 0 auto;
+        width: 80%;
+        scroll-snap-aling: center;
+        }
+       .carousel-item img {
+         width: 100%;
+         border-radius: 10px;
+         box-shadow:0 4px 6px rgba(0, 0, 0,0.1);
+         }
+       /*Rodapé*/
+      .footer {
+       background-color:#333;
+       color:white;
+       text-aling: center;
+       padding: 1rem 0;
+       }
+      .footer .social-icons a {
+         color: white;
+         text-decoration: none;
+         margin 0 1rem:
+         }
+      .footer .social-icons a:hover {
+       text-decorationb: underline;
+       }
+       
+         
 
  
 
