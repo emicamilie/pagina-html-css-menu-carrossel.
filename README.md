@@ -115,7 +115,7 @@ body{
          margin 0 1rem:
          }
       .footer .social-icons a:hover {
-       text-decorationb: underline;
+       text-decoration: underline;
        }
        
          
