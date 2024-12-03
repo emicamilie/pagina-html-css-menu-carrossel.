@@ -27,21 +27,21 @@ class="carousel-section">
  <h2>Galeria de Imagens</h2>
  <div class="carousel">
   <div class="carousel-item"><img src="https://via.placeholder.com/800x400"
- alt="Imagem 1"></div>
+ alt="Imagem 1"><div>
   <div class="carousel-item"><img src="https://via.placeholder.com/800x400"
- alt="imagem 2"></div>
+ alt="imagem 2"><div>
   <div class="=carousel-item"><img src="https://via.placeholder.com/800x400"
  alt="imagem 3"></div>
   </div>
  </section>
 <!--Rodapé-->
+<footer id="contato" class="footer"> 
+ <p>Conecte-se comigo:</p>
+ <div class="social-icons">
+  <a href="**https
+
+
  
- 
-
-
-
-
-
 
 
 
