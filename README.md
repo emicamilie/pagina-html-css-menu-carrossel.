@@ -38,7 +38,61 @@ class="carousel-section">
 <footer id="contato" class="footer"> 
  <p>Conecte-se comigo:</p>
  <div class="social-icons">
-  <a href="**https
+   <a href="https://github.com"
+target="_blank">GitHub</a>
+   <a href="https://linkedin.com"
+target="_blank">Linkedin</a>
+   <a href="https://twitter.com'
+target="blank'>Twitter</a>
+  </div>
+ </footer>
+</body>
+</html>
+
+/*Reset Básico*/
+. {
+ margin: 0;
+ padding: 0;
+ box-sizing:border-box;
+ }
+body{
+ font-family:Arial, sans-serif;
+ line-height: 1.6;
+ background-color: #f4f4f9;
+ color:#333;
+ }
+/*Menu Superior*/
+.menu {
+ background-color:#6200ea;
+ padding: 1rem 0;
+ }
+ .menu nav ul {
+ list-style: none;
+ display: flex;
+ justify-content: center;
+ gap: 2rem;
+ }
+ .menu nav ul li a {
+  color: white;
+  
+  text-decoration: none;
+  font-size: 1.2rem;
+  }
+  .menu nav ul li a:hover {
+    text-decoration:underline;
+    }
+   /*Carrossel*/
+   .carousel-section {
+     padding: 2rem;
+     text-aling: center;
+     }
+     .carousel {
+      display: flex;
+      overflow-x: auto;
+      scroll-snap-type:x mandatory;
+      gap: 1rem;
+      }
+      .carousel-item
 
 
  
